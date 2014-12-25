@@ -56,7 +56,7 @@ INSERT INTO `users` (`usr_id`, `usr_name`, `usr_password`, `usr_email`, `usr1_id
 (3, 'Vitaliy_Tsud', '33333333', 'b_med@gmail.com', 1, 1, 1, '', '', '', '', '2014-12-24 12:00:00', '', 1),
 (4, 'Dmitriy_Ilchuk', '1111111', 'metisb@gmail.com', NULL, NULL, 1, NULL, NULL, NULL, NULL, NULL, NULL, 1),
 (5, 'Anna_Tsud', '1111111', 'tsud@gmail.com', 1, 1, 1, '', '', '', '', '2014-12-24 12:00:00', '', 1),
-(6, 'Ailin.Ilchuk', 'Dzpmvbrby7', '1111111', 1, 1, 1, 'Hl', 'Hi', 'https://www.', '●●●●●●●●', '2014-12-24 12:00:00', '', 1);
+(6, 'Ailin.Ilchuk', '1111111', '1111111', 1, 1, 1, 'Hl', 'Hi', 'https://www.', '', '2014-12-24 12:00:00', '', 1);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

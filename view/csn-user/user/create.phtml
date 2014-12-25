@@ -1,0 +1,17 @@
+
+
+<h3>Create New User</h3>
+
+<?php 
+
+$form = $this->form;
+$form->prepare();
+
+$form->setAttribute('action', $this->url('csn_user/default', array('controller' => 'user', 'action' => 'create')));
+$form->setAttribute('method', 'post');
+
+echo $this->form()->openTag($form);
+echo $this->formCollection($form);
+echo $this->form()->closeTag();
+
+?>
